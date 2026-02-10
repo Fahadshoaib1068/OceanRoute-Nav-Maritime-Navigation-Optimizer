@@ -55,11 +55,17 @@ To simulate real-world maritime navigation, logistics optimization, and intellig
 
 ## Commands
 git init
+
 git add .
+
 git commit -m "Initial commit - OceanRoute Nav project structure"
+
 git branch -M main
+
 git remote add origin https://github.com/YOUR_USERNAME/OceanRoute-Nav.git
+
 git push -u origin main
+
 ---
 
 **Developed by:** Fahad  
