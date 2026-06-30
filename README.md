@@ -2,6 +2,10 @@
 
 A maritime route optimization and navigation simulation system built using C++ with SFML/GLUT visualization.
 
+## Team Members 
+1. Novwera Amjad 
+2. Fahad Shoaib 
+
 ## 🚢 Features
 - Graph-based maritime routing system
 - Custom data structures (No STL)
